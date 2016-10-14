@@ -7,6 +7,10 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
+    
+    
+    
+    
 
     <properties>
         <jetty.port>9990</jetty.port>
@@ -421,6 +425,10 @@
                     </plugin>
                 </plugins>
             </build>
+            
         </profile>
+    
     </profiles>
+    
+    
 </project>
